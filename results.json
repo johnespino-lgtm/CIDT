@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-06-15T12:00:00-05:00",
-  "source": "Wikipedia / FIFA.com (actualización manual vía skill fifa-world-cup-2026-results)",
+  "updated_at": "2026-06-15T16:30:00-05:00",
+  "source": "CBS Sports / Yahoo Sports / Al Jazeera / NBC News (via skill fifa-world-cup-2026-results)",
   "results": {
+    "1": {"g1": 2, "g2": 0},
+    "2": {"g1": 2, "g2": 1},
+    "3": {"g1": 1, "g2": 1},
+    "4": {"g1": 4, "g2": 1},
+    "5": {"g1": 1, "g2": 1},
+    "6": {"g1": 1, "g2": 1},
+    "7": {"g1": 0, "g2": 1},
+    "8": {"g1": 2, "g2": 0}
   }
 }
